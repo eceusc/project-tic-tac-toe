@@ -2,7 +2,7 @@ import random
 
 def draw_board(board):
     # This function prints out the board that it was passed and should not return anything
-    #HINT: pass a list to this function that holds the position of 'X's and 'O's
+    #HINT: the parameter board should hold a list that holds the position of 'X's and 'O's
     return
 
 def input_player_letter():
@@ -22,14 +22,14 @@ def who_goes_first():
 def main():
 
     print ('Welcome to Tic Tac Toe')
-    starter = who_goes_first()
+    turn = who_goes_first()
 
     player_letter = input_player_letter()
     #Here assign computer_letter to be 'O' if player_letter is 'X' or vice versa
 
 
 
-    #initialize your board list here to pass to draw the board
+    # Initialize your board list here to pass to draw_board
     #board =
     draw_board(board)
 
