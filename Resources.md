@@ -5,4 +5,5 @@
 
 ### Workshop 2: Python
 [Python RPG Tutorial](https://hackmd.io/s/rkzGgh0om)
+
 [Tic-Tac-Toe Exercise 1](https://github.com/eceusc/project-tic-tac-toe)
